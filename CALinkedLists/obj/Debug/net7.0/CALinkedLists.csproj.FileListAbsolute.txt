@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\bin\Debug\net7.0\CALinkedLists.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\bin\Debug\net7.0\CALinkedLists.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\bin\Debug\net7.0\CALinkedLists.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\bin\Debug\net7.0\CALinkedLists.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\bin\Debug\net7.0\CALinkedLists.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\CALinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\CALinkedLists.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\CALinkedLists.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\CALinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\CALinkedLists.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\refint\CALinkedLists.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\CALinkedLists.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\CALinkedLists.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CALinkedLists\obj\Debug\net7.0\ref\CALinkedLists.dll

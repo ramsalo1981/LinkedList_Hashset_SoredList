@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\refint\CAHashSetsandSortedSets.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\LinkedListAndHashsets\CAHashSetsandSortedSets\obj\Debug\net7.0\ref\CAHashSetsandSortedSets.dll
